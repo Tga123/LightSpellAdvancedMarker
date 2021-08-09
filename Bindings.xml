@@ -1,0 +1,47 @@
+<Bindings>
+	<Binding name="CLICK LSAM_FlareButtons1:LeftButton" header="LSAMF" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons2:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons3:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons4:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons5:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons6:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons7:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_FlareButtons8:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="CLICK LSAM_ClearAllButton:LeftButton" category="BINDING_HEADER_RAID_TARGET">
+	</Binding>
+	<Binding name="LSAMSTAR" header="LSAMM" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",1)
+	</Binding>
+	<Binding name="LSAMCOOKIE" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",2)
+	</Binding>
+	<Binding name="LSAMRHOMB" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",3)
+	</Binding>
+	<Binding name="LSAMSTRING" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",4)
+	</Binding>
+	<Binding name="LSAMMOON" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",5)
+	</Binding>
+	<Binding name="LSAMSQUARE" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",6)
+	</Binding>
+	<Binding name="LSAMCROSS" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",7)
+	</Binding>
+	<Binding name="LSAMSKULL" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",8)
+	</Binding>
+	<Binding name="LSAMCLEAR" category="BINDING_HEADER_RAID_TARGET">
+    SetRaidTarget("mouseover",0)
+	</Binding>
+</Bindings>
