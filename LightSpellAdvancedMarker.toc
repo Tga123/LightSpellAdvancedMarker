@@ -1,10 +1,9 @@
 ## Author: LightSpell
-## Interface: 90100
+## Interface: 100002
 ## Title: LightSpellAdvancedMarker
 ## Notes: Markering addon.
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: LSAM_GlobalOptions
 ## SavedVariablesPerCharacter: LSAM_PerChar, LSAM_CharacterOptions
 
-Bindings.xml
 LightSpellAdvancedMarker.lua
